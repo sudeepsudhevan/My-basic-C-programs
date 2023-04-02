@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author sudee
+ *
+ */
+module sample {
+}
